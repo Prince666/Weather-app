@@ -1,0 +1,29 @@
+body
+{
+    background-image: url(weather.jpg);
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    cursor: pointer;
+}
+
+.container
+{
+    text-align:center;
+    margin-top: 200px;
+    width: 450px;
+}
+
+h1
+{
+    font-family: 'Lobster', cursive;
+    
+    color: black;
+   
+}
+
+input
+{
+    margin: 20px 0px;
+}
